@@ -1,2 +1,1 @@
 # ameliarowland
-GISer utilizing Python
